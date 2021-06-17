@@ -1,0 +1,6 @@
+aws-serverless-express aws-xray-sdk http-aws-es jsonwebtoken source-map-support uuid
+
+@types/aws-lambda @types/jest @types/jsonwebtoken @types/node aws-sdk jest serverless-aws-documentation serverless-dynamodb-local serverless-iam-roles-per-function serverless-offline serverless-plugin-canary-deployments serverless-reqvalidator-plugin serverless-webpack ts-jest ts-loader typescript webpack
+
+{"action":"foo", "data": "lolaflorez", "destination":"BFDmQfHbiYcCIaA=", "message":"cuchicuchi"}
+
